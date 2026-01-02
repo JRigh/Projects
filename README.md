@@ -45,6 +45,4 @@ Overview of classification algorithms with scikit-learn on iris dataset in Pytho
 
 Dashboarding using open-source software (Apache Superset).
 
-<
-
 <img src="/assets/Apache Superset.png" width="650">
