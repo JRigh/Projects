@@ -14,7 +14,9 @@ In R programming:
 
 In Python:
 
-<img src="/assets/ML Supervised Learning.png" width="650">
+Overview of classification algorithms with scikit-learn on iris dataset in Python. Link to the full study here: 
+
+<img src="/assets/Supervised Learning Classification.png" width="650">
 
 Other tools:
 
