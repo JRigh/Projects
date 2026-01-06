@@ -40,9 +40,31 @@ Overview of classification algorithms with scikit-learn on iris dataset in Pytho
 
 <img src="/assets/Supervised Learning Classification.png" width="650">
 
+Python course in 8 modules with coding assigments:
+module 1 - Python programming fundamentals
+module 2 - Data structures and introduction to Pandas
+module 3 - Introduction to NumPy
+module 4 - Data visualization and exploration
+module 5 - Supervised Learning - Regression with scikit-learn
+module 6 - Supervised Learning - Classification with scikit-leand and Machine learning pipelines
+module 7 - Time series analysis
+module 8 - Course project
 
-**Other tools**
+<img src="/assets/PDS1.png" width="650">
+<img src="/assets/PDS2.png" width="650">
+<img src="/assets/PDS3.png" width="650">
+<img src="/assets/PDS4.png" width="650">
+<img src="/assets/PDS5.png" width="650">
+<img src="/assets/PDS6.png" width="650">
+
+
+**Open source tools**
 
 Dashboarding using open-source software (Apache Superset).
 
 <img src="/assets/Apache Superset.png" width="650">
+
+
+Kanban using open-source software (Wekan).
+
+<img src="/assets/wekan.png" width="650">
