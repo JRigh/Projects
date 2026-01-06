@@ -37,7 +37,7 @@ Survival Analysis Of Amoebae In a Nutrient-Poor Environment. Link to the full pd
 
 <https://github.com/JRigh/Projects/blob/main/Survival_Analysis_julian.pdf>
 
-<img src="/assets/Survival Analysis.png" width="650">
+<img src="/assets/Survival_Analysis.png" width="650">
 
 **Python**
 
@@ -74,4 +74,4 @@ Dashboarding using open-source software (Apache Superset).
 
 Kanban using open-source software (Wekan).
 
-<img src="/assets/kanban wekan.png" width="650">
+<img src="/assets/kanban weekan.png" width="650">
