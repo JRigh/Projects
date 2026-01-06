@@ -32,6 +32,13 @@ Low birth weight analysis using wild bootstrap and quantile regression. Link to 
 <img src="/assets/Public Health Analysis.png" width="650">
 
 
+
+Survival Analysis Of Amoebae In a Nutrient-Poor Environment. Link to the full pdf here:
+
+<https://github.com/JRigh/Projects/blob/main/Survival_Analysis_julian.pdf>
+
+<img src="/assets/Survival Analysis.png" width="650">
+
 **Python**
 
 Overview of classification algorithms with scikit-learn on iris dataset in Python. Link to the full study here: 
@@ -67,4 +74,4 @@ Dashboarding using open-source software (Apache Superset).
 
 Kanban using open-source software (Wekan).
 
-<img src="/assets/wekan.png" width="650">
+<img src="/assets/kanban wekan.png" width="650">
