@@ -47,15 +47,24 @@ Overview of classification algorithms with scikit-learn on iris dataset in Pytho
 
 <img src="/assets/Supervised Learning Classification.png" width="650">
 
-Python course in 8 modules with coding assigments:
-module 1 - Python programming fundamentals
-module 2 - Data structures and introduction to Pandas
-module 3 - Introduction to NumPy
-module 4 - Data visualization and exploration
-module 5 - Supervised Learning - Regression with scikit-learn
-module 6 - Supervised Learning - Classification with scikit-leand and Machine learning pipelines
-module 7 - Time series analysis
-module 8 - Course project
+*Python course in 8 modules with coding assigments:*
+
+  
+*module 1* – *Python programming fundamentals*  
+
+*module 2* – *Data structures and introduction to Pandas*  
+
+*module 3* – *Introduction to NumPy*  
+
+*module 4* – *Data visualization and exploration*  
+
+*module 5* – *Supervised Learning – Regression with scikit-learn*  
+
+*module 6* – *Supervised Learning – Classification with scikit-leand and Machine learning pipelines*  
+
+*module 7* – *Time series analysis*  
+
+*module 8* – *Course project*
 
 <img src="/assets/PDS1.png" width="650">
 <img src="/assets/PDS2.png" width="650">
