@@ -52,7 +52,7 @@ Overview of classification algorithms with scikit-learn on iris dataset in Pytho
   
 *module 1* – Python programming fundamentals
 
-*module 2* – Data structures and introduction to Panda
+*module 2* – Data structures and introduction to Pandas
 
 *module 3* – Introduction to NumPy
 
