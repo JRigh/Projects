@@ -2,7 +2,7 @@ This is a non-exhaustive overview of some of my projects over the years.
 
 
 
-**R programming**
+<b><ins>R programming</ins></b>
 
 Partial reproduction of the published study "On The Assessment Of Monte Carlo Error in Simulation-Based Statistical Analyses". Link to the full pdf here:
 
@@ -39,7 +39,7 @@ Survival Analysis Of Amoebae In a Nutrient-Poor Environment. Link to the full pd
 
 <img src="/assets/Survival_Analysis.png" width="650">
 
-**Python**
+<b><ins>Python</ins></b>
 
 Overview of classification algorithms with scikit-learn on iris dataset in Python. Link to the full study here: 
 
@@ -72,7 +72,7 @@ Overview of classification algorithms with scikit-learn on iris dataset in Pytho
 <img src="/assets/PDS4.png" width="650">
 <img src="/assets/PDS5.png" width="650">
 <img src="/assets/PDS6.png" width="650">
-
+<img src="/assets/PDS7.png" width="650">
 
 **Open source tools**
 
