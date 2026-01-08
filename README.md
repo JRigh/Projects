@@ -1,7 +1,6 @@
 This is a non-exhaustive overview of some of my projects over the years.
 
 
-
 <b><ins>R programming</ins></b>
 
 Partial reproduction of the published study "On The Assessment Of Monte Carlo Error in Simulation-Based Statistical Analyses". Link to the full pdf here:
